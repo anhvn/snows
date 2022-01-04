@@ -11,3 +11,4 @@ Simple romantic snowing storm with only HTML &amp; Javascript
 ## Demo
 <a href="https://demo.nhatanhnotes.com/snows" target="_blank">https://demo.nhatanhnotes.com/snows</a>
 
+<img src="https://demo.nhatanhnotes.com/snows/demo_snows-min.gif">
